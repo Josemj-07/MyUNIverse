@@ -1,0 +1,14 @@
+C:\MyUNIverse\backend_csharp\Configuracion\bin\Debug\net9.0\backend_csharp.exe
+C:\MyUNIverse\backend_csharp\Configuracion\bin\Debug\net9.0\backend_csharp.deps.json
+C:\MyUNIverse\backend_csharp\Configuracion\bin\Debug\net9.0\backend_csharp.runtimeconfig.json
+C:\MyUNIverse\backend_csharp\Configuracion\bin\Debug\net9.0\backend_csharp.dll
+C:\MyUNIverse\backend_csharp\Configuracion\bin\Debug\net9.0\backend_csharp.pdb
+C:\MyUNIverse\backend_csharp\Configuracion\obj\Debug\net9.0\backend_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyUNIverse\backend_csharp\Configuracion\obj\Debug\net9.0\backend_csharp.AssemblyInfoInputs.cache
+C:\MyUNIverse\backend_csharp\Configuracion\obj\Debug\net9.0\backend_csharp.AssemblyInfo.cs
+C:\MyUNIverse\backend_csharp\Configuracion\obj\Debug\net9.0\backend_csharp.csproj.CoreCompileInputs.cache
+C:\MyUNIverse\backend_csharp\Configuracion\obj\Debug\net9.0\backend_csharp.dll
+C:\MyUNIverse\backend_csharp\Configuracion\obj\Debug\net9.0\refint\backend_csharp.dll
+C:\MyUNIverse\backend_csharp\Configuracion\obj\Debug\net9.0\backend_csharp.pdb
+C:\MyUNIverse\backend_csharp\Configuracion\obj\Debug\net9.0\backend_csharp.genruntimeconfig.cache
+C:\MyUNIverse\backend_csharp\Configuracion\obj\Debug\net9.0\ref\backend_csharp.dll
